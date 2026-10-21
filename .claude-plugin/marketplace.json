@@ -1,0 +1,14 @@
+{
+  "name": "humanos",
+  "owner": {
+    "name": "Standard Cybernetics"
+  },
+  "plugins": [
+    {
+      "name": "humanos",
+      "source": "./plugins/humanos",
+      "description": "Review and submit findings to your HumanOS tracker."
+    }
+  ],
+  "description": "Official HumanOS agent integrations from Standard Cybernetics."
+}

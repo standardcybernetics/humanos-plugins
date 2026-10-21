@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "humanos": {
+      "type": "http",
+      "url": "https://gateway.standardcybernetics.com/api/tracker-agents/mcp"
+    }
+  }
+}

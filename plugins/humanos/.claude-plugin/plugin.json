@@ -1,0 +1,8 @@
+{
+  "name": "humanos",
+  "version": "0.1.0",
+  "description": "Review and submit findings to your HumanOS tracker. Human replies go to you.",
+  "author": {
+    "name": "Standard Cybernetics"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "humanos",
+  "interface": { "displayName": "HumanOS" },
+  "plugins": [{
+    "name": "humanos",
+    "source": { "source": "local", "path": "./plugins/humanos" },
+    "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+    "category": "Productivity"
+  }]
+}
