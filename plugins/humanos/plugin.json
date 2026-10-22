@@ -1,11 +1,12 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "humanos",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Review and submit findings to your HumanOS tracker. Human replies go to you.",
   "author": {
     "name": "Standard Cybernetics"
   },
+  "repository": "https://github.com/standardcybernetics/humanos-plugins",
   "extensions": {
     "com.openai": {
       "interface": {
@@ -13,6 +14,5 @@
         "shortDescription": "Send findings to your tracker after automated coaching."
       }
     }
-  },
-  "repository": "https://github.com/standardcybernetics/humanos-plugins"
+  }
 }

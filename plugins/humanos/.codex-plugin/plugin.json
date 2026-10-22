@@ -1,0 +1,13 @@
+{
+  "name": "humanos",
+  "version": "0.1.1",
+  "description": "Review and submit findings to your HumanOS tracker. Human replies go to you.",
+  "author": {
+    "name": "Standard Cybernetics"
+  },
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "HumanOS",
+    "shortDescription": "Send findings to your tracker after automated coaching."
+  }
+}
